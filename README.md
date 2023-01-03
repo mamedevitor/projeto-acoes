@@ -10,4 +10,4 @@ Funcionalidades do webapp:
 - Consultar dados da bolsa barasileira, americana, canadense e espanhola
 - Mostrar gráficos de Linhas
 - Mostrar gráfico de barra
-- Mostrar os dados tabulados em tabelas
+- Mostrar os dados tabulados em tabelas.
